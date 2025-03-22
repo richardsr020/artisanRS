@@ -130,5 +130,5 @@ Ce projet est sous licence propriétaire. Tous les droits sont réservés. Aucun
 
 ---
 
-**RS - RealScope** est un projet open-source, destiné à aider à l'analyse de signaux avec une interface simple et rapide. 🎉
+**RS - RealScope** est un projet, destiné à aider à l'analyse de signaux avec une interface simple et rapide. 🎉
 
