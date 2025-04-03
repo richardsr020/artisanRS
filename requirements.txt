@@ -1,4 +1,0 @@
-pyserial
-matplotlib
-numpy
-pillow
